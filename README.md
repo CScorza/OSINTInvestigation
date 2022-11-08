@@ -4,6 +4,7 @@
 | :--- | :--- |
 |[**GUERRE E TERRORISMO**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#terrorismo)|[**CORPINT** - Intelligence sulle Aziende](https://github.com/CScorza/CORPINT-Corporate-Intelligence)|
 |[**CRIMINALITA' ORGANIZZATA**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#criminalit%C3%A0-organizzata)|[**VATINT** - Intelligence sui Veicoli e sui Trasporti](https://github.com/CScorza/Tool-VATINT)|
+|[**CYBERCRIME**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#cybercrime)||
 |[**STRUMENTI UTILI**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#strumenti-utili)||
 |[**ARCHIVIO ITALIA**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#archivio)||
 |[**ARCHIVIO ESTERO**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#archivio-giornali-esteri)||
@@ -16,17 +17,28 @@
 | :--- | :--- | :--- |  
 ||[**StoryMaps team - Terrorist Attacks**](https://storymaps.esri.com/stories/terrorist-attacks/)|[**MAPPING MILITANTS**](http://web.stanford.edu/group/mappingmilitants/cgi-bin/)|
 
+**Geopolitica**
+
+|![Geopolitica](https://user-images.githubusercontent.com/98583912/200682992-2f300d7d-38b0-460f-a185-09fc1fb18590.gif)|[**Geopolitics and Empire**](https://geopoliticsandempire.com/)|[**IARI - ISTITUTO ANALISI RELAZIONI INTERNAZIONAL**](https://iari.site/)|
+| :--- | :--- | :--- |
 
 
-## Glossario
+**Glossario**
 |![Glossario](https://user-images.githubusercontent.com/98583912/200567559-c71f2740-a119-4912-a9b6-0361ea24f47c.gif)|[**Militant Group Historical Activities**](https://www.start.umd.edu/gtd/search/BrowseBy.aspx?category=country)|[**Chechen World Tracking**](https://www.chechenmilitanttracking.com/)|
 | :--- | :--- | :--- |  
 |[**Il Giornale - Inside Over**](https://insideover.ilgiornale.it/)|[**Counter Extremism Project**](https://www.counterextremism.com/glossary)|
 
 # CyberCrime
+
 |![monophy](https://user-images.githubusercontent.com/98583912/200569948-0a42db58-5dc0-4c27-b4cc-ae944739e610.gif)|[**Fortinet - Threat Map**](https://threatmap.fortiguard.com/)|[**Kaspersky CyberMap**](https://cybermap.kaspersky.com/)|
 | :--- | :--- | :--- |
 ||[**Check Point - Threat Map**](https://threatmap.checkpoint.com/)||
+
+**Terrorismo in Italia**
+|Archichi|Brigate Rosse|Terrorismo di Destra|
+| :---: | :---: | :---: |
+|![Anarchici](https://user-images.githubusercontent.com/98583912/200679490-c2107816-bdfc-4fd5-ad69-e40034d9f90c.gif)|![brigate rossi](https://user-images.githubusercontent.com/98583912/200679517-3fc44f95-a63e-4a8f-b12b-859a9299679a.gif)|![NAR](https://user-images.githubusercontent.com/98583912/200679560-f0509a1e-ff94-4fa2-9e99-3e36c23f1b22.gif)|
+|[Anarcopedia](https://www.anarcopedia.org/index.php/Simbolismo_anarchico)|[wikipedia - Brigate Rosse](https://it.wikipedia.org/wiki/Brigate_Rosse)|[Wikipedia - Nuclei Armati Rivoluzionari](https://it.wikipedia.org/wiki/Nuclei_Armati_Rivoluzionari)|
 
 # CRIMINALITA ORGANIZZATA 
 
@@ -34,6 +46,7 @@
 **Live Estero**
 |![Criminalità Organizzata](https://user-images.githubusercontent.com/98583912/200570902-ccadcb6f-2d0c-4e13-b1ab-99830cc44459.gif)|[**Numbeo - Indice di Criminalità per Paese**](https://www.numbeo.com/crime/rankings_by_country.jsp)|[**NationMaster - Tasso di Omicidi per Paese**](https://www.nationmaster.com/country-info/stats/Crime/Violent-crime/Murder-rate)|
 | :--- | :--- | :--- |  
+|ITALIA|[**IL Giornale.it - Mappa dei Reati Milano**](https://www.ilgiornale.it/news/milano/mappa-dei-reati-milano-2083346.html)|
 |BRASILE|[**FogoCruzado - Crime in Brasile**](https://fogocruzado.org.br/)|
 |REGNO UNITO|[**Corporate Crime**](https://www.corporatecrime.co.uk/)|
 |SVEZIA|[**Il Giornale - Guerra delle Gang della Droga**](https://insideover-ilgiornale-it.cdn.ampproject.org/c/s/insideover.ilgiornale.it/societa/alle-origini-della-guerra-della-droga-svedese.html/amp)|
