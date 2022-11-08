@@ -1,5 +1,7 @@
 ![Logo](https://user-images.githubusercontent.com/98583912/200357294-389cc67b-3cc5-4fdb-b260-660b4621cb74.gif)
 
+**Tecniche OSINT per il reperimento di notizie ed informazioni comunemente non reperibili dal comune fruitore di internet**
+
 |INDICE|AIUTI ALL'INVESTIGAZIONE|
 | :--- | :--- |
 |[**GUERRE E TERRORISMO**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#terrorismo)|[**CORPINT** - Intelligence sulle Aziende](https://github.com/CScorza/CORPINT-Corporate-Intelligence)|
@@ -46,14 +48,13 @@
 **Live Estero**
 |![Criminalità Organizzata](https://user-images.githubusercontent.com/98583912/200570902-ccadcb6f-2d0c-4e13-b1ab-99830cc44459.gif)|[**Numbeo - Indice di Criminalità per Paese**](https://www.numbeo.com/crime/rankings_by_country.jsp)|[**NationMaster - Tasso di Omicidi per Paese**](https://www.nationmaster.com/country-info/stats/Crime/Violent-crime/Murder-rate)|
 | :--- | :--- | :--- |  
-|ITALIA|[**IL Giornale.it - Mappa dei Reati Milano**](https://www.ilgiornale.it/news/milano/mappa-dei-reati-milano-2083346.html)|
 |BRASILE|[**FogoCruzado - Crime in Brasile**](https://fogocruzado.org.br/)|
 |REGNO UNITO|[**Corporate Crime**](https://www.corporatecrime.co.uk/)|
 |SVEZIA|[**Il Giornale - Guerra delle Gang della Droga**](https://insideover-ilgiornale-it.cdn.ampproject.org/c/s/insideover.ilgiornale.it/societa/alle-origini-della-guerra-della-droga-svedese.html/amp)|
 
 
 **Live Italia**
-|![DIA](https://user-images.githubusercontent.com/98583912/200573426-05cacdbd-fcb1-4ea6-ad5e-2e627ea39e38.gif)|[**DIA - Archivio Semestrale**](https://direzioneinvestigativaantimafia.interno.gov.it/relazioni-semestrali/)|[**Milano Crime Monitoring**](http://milanocrimemonitoring.com/)|
+|![DIA](https://user-images.githubusercontent.com/98583912/200573426-05cacdbd-fcb1-4ea6-ad5e-2e627ea39e38.gif)|[**DIREZIONE INVESTIGATIVA ANTIMAFIA - Archivio Semestrale**](https://direzioneinvestigativaantimafia.interno.gov.it/relazioni-semestrali/)|[**Milano Crime Monitoring**](http://milanocrimemonitoring.com/)|
 | :--- | :--- | :--- |  
 ||[**Minecrime Monitorare la Criminalita**](https://www.anyreality.it/minecrime-monitorare-la-criminalita/)|[**Bologna Bike Watch - Statistiche**](http://www.bolognabikewatch.com/statistiche.php)|
 
