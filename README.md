@@ -101,30 +101,14 @@ Research Material for Investigative Reporting
 |[**Il Quotidiano del sud.it**](https://www.quotidianodelsud.it/)||
 
 ### REGIONI
-#### SICILIA
-|[**LaSicilia.it - Archivio Storico**](https://archiviostorico.lasicilia.it/lasicilia/newsstandarchive)|[**La Gazzetta del Mezzogiorno - Archivio**](https://edicola.lagazzettadelmezzogiorno.it/gazzettadelmezzogiorno/newsstandarchive)|
-| :--- | :--- | 
-|[**I Siciliani - Archivio**](http://www.fondazionefava.it/sito/i-siciliani/)|[**Archivio - l'Ora**](http://www.bibliotecaregionalepalermo.it/index.php?it/334/archivio-lora)|
 
-#### CALABRIA
-|[**Stop 'Ndrangheta**](http://www.stopndrangheta.it/)|
-| :--- |
+|SICILIA|CALABRIA|CAMPANIA|PUGLIA|LIGURIA|
+| :---: | :---: | :---: | :---: | :---: | 
+|[**LaSicilia.it - Archivio Storico**](https://archiviostorico.lasicilia.it/lasicilia/newsstandarchive)|[**Stop 'Ndrangheta**](http://www.stopndrangheta.it/)|[**IL MATTINO - Archivio**](https://shop.ilmattino.it/archivio)|[**LA Gazzetta del Mezzogiorno - Archivio**](http://archivio.lagazzettadelmezzogiorno.it/gazzettadelmezzogiorno/archive/index_ricerca.jsp)|[**Mafie in Liguria**](http://mafieinliguria.it/)|[**Archivio - Il Piccolo.it**](https://archivio.ilpiccolo.it/sfoglio/)|
+|[**La Gazzetta del Mezzogiorno - Archivio**](https://edicola.lagazzettadelmezzogiorno.it/gazzettadelmezzogiorno/newsstandarchive)||[Dire.it - Archivio Camorra](https://www.dire.it/tag/camorra/)||||[**Il Gazzettino - Archivio**](https://shop.ilgazzettino.it/archivio)|
+|[**I Siciliani - Archivio**](http://www.fondazionefava.it/sito/i-siciliani/)||||||
+|[**Archivio - l'Ora**](http://www.bibliotecaregionalepalermo.it/index.php?it/334/archivio-lora)||||||
 
-#### CAMPANIA
-|[**IL MATTINO - Archivio**](https://shop.ilmattino.it/archivio)|[Dire.it - Archivio Camorra](https://www.dire.it/tag/camorra/)|
-|  :--- | :--- | 
-
-#### PUGLIA
-|[**LA Gazzetta del Mezzogiorno - Archivio**](http://archivio.lagazzettadelmezzogiorno.it/gazzettadelmezzogiorno/archive/index_ricerca.jsp)|
-| :--- | 
-
-#### LIGURIA
-[**ZMafie in Liguria**](http://mafieinliguria.it/)
-| :--- | 
-
-#### Friuli Venezia Giulia
-|[**Archivio - Il Piccolo.it**](https://archivio.ilpiccolo.it/sfoglio/)|[**Il Gazzettino - Archivio**](https://shop.ilgazzettino.it/archivio)|
-| :--- | :--- |
 
 ## Archivio Bibblioteche Nazionali
 
