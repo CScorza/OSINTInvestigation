@@ -37,6 +37,18 @@
 | :--- | :--- | :--- |
 ||[**Check Point - Threat Map**](https://threatmap.checkpoint.com/)||
 
+**DEEPWEB**
+|INDIRIZZI ONION |INDIRIZZI CLEAR|STRUMENTI|
+| :--- | :--- | :--- |
+|[Dark Site.onion](http://wikilink77h7lrbi.onion.ly/dark-sites-on.html)|[AHMIA](https://ahmia.fi/)|[GitHub - Dark Web Osint Tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)|
+||[Dark Fail](https://dark.fail/)|[GitHub - DarkWeb Superficie di attacco OSINT](https://github.com/sinwindie/OSINT/blob/master/DarkWeb/DWM%20OSINT%20Attack%20Surface.png)|
+||[Social Cat Fish](https://socialcatfish.com/)||
+||[Tor Whois](https://torwhois.com/)||
+||[Deep Onion Web](https://www.deeponionweb.com/)||
+||[OsintCombine - Dark Web Searching](https://www.osintcombine.com/post/dark-web-searching)||
+||[osintme - List of Darknet Markets for Investigators](https://www.osintme.com/index.php/2021/02/20/list-of-darknet-markets-for-investigators-2/)||
+
+
 **Terrorismo in Italia**
 |Archichi|Brigate Rosse|Terrorismo di Destra|
 | :---: | :---: | :---: |
@@ -81,6 +93,10 @@
 | :--- | :--- |
 |[**Wayback Archive.org**](http://web.archive.org/)|[**Cached Pages**](http://www.cachedpages.com/)|
 |[**Cached View**](http://cachedview.com/)|[**Archive.org**](https://archive.org/)|
+
+**Strumenti Software**
+|[**SpiderFoot**](https://sourceforge.net/projects/spiderfoot/)|[**MALTEGO**](https://www.paterva.com/buy/maltego-clients/maltego-ce.php)|
+| :--- | :--- |
 
 
 **Testi**
@@ -153,11 +169,3 @@ Ricerca Materiale e Report Investigativo
 |![Istituzionale](https://user-images.githubusercontent.com/98583912/200617191-935b2ddc-08db-4440-ba26-9472a86c0b92.gif)|[**Senato.it Teca - Giornalistorici**](http://www.senato.it/teca/giornalistorici/27513a83-6cd9-3afa-97f7-ba5f3166bb40.html)|
 | :---: | :--- |
 |[**Consiglio Superiore della Magistratura**](https://www.csm.it/web/csm-internet/aree-tematiche/giurisdizione-e-societa/mafie)|[**Archivio Storico Senato della Repubblica**](https://patrimonio.archivio.senato.it/inventario/scheda/giacomo-mancini/IT-AFS-043-001751/camorra-mafia-ndrangheta-1983-1984-1985-1986-1989)|
-
-
-
-
-
-
-
-
