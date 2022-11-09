@@ -24,7 +24,7 @@
 
 |![Geopolitica](https://user-images.githubusercontent.com/98583912/200682992-2f300d7d-38b0-460f-a185-09fc1fb18590.gif)|[**Geopolitics and Empire**](https://geopoliticsandempire.com/)|[**IARI - ISTITUTO ANALISI RELAZIONI INTERNAZIONAL**](https://iari.site/)|
 | :--- | :--- | :--- |
-
+|[**Analytica Intelligence and Security**](https://www.analyticaintelligenceandsecurity.it/ricerca-e-analisi/terrorismo/osservatorio-radicalismo-politico-terrorismo-interno-e-criminalita-organizzata-terrorismo/)|||
 
 **Glossario**
 |![Glossario](https://user-images.githubusercontent.com/98583912/200567559-c71f2740-a119-4912-a9b6-0361ea24f47c.gif)|[**Militant Group Historical Activities**](https://www.start.umd.edu/gtd/search/BrowseBy.aspx?category=country)|[**Chechen World Tracking**](https://www.chechenmilitanttracking.com/)|
@@ -143,6 +143,7 @@ Ricerca Materiale e Report Investigativo
 |[**Digiteca Bibblioteca di Storia Moderna e Contemporanea**](http://digiteca.bsmc.it/?l=periodici&t=Fanfulla%20della%20domenica)|[**Bibblioteca Digitale - Quotidiani Sportivi**](http://dlib.coninet.it/?q=node/8)||
 |[**Bibblioteca Digitale Toscana**](http://www405.regione.toscana.it/TecaRicerca/home.jsp)|[**Catalogo Informatico Riviste Culturali Europee**](http://circe.lett.unitn.it/le_riviste/catalogo.html)||
 |[**Biblioteca Nazionale Braidense**](http://emeroteca.braidense.it/indice_testate.php)|[**Biblioteca di Storia Moderna e Contemporanea - Archivio**](http://digiteca.bsmc.it/mobile.html)|[**ARCHIVIO BENI CULTURALI**](https://www.memoria.san.beniculturali.it/web/memoria)|
+|[**Archivio - Regione Toscana**](https://momaco.regione.toscana.it/accesso-riservato/)|||
 
 **ESTERE**
 |[**Bibblioteca Gallica - Francia**](https://gallica.bnf.fr/html/und/presse-et-revues/les-principaux-quotidiens?mode=desktop)|
