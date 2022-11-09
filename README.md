@@ -17,7 +17,8 @@
 ## Monitoraggio Live
 |![Mappa Conflitti](https://user-images.githubusercontent.com/98583912/200566813-3dc06d5c-d3ed-4a1c-b5d7-902c4cbd2379.gif)|[**UCDP - Uppsala Conflict Data Program**](https://ucdp.uu.se/exploratory)|[**Every Disputed Territory in the World - Interactive Map**](http://metrocosm.com/disputed-territories-map.html)|
 | :--- | :--- | :--- |  
-||[**StoryMaps team - Terrorist Attacks**](https://storymaps.esri.com/stories/terrorist-attacks/)|[**MAPPING MILITANTS**](http://web.stanford.edu/group/mappingmilitants/cgi-bin/)|
+|[**Associazione Italiana Vittime del Terrorismo**](https://www.vittimeterrorismo.it/archivio/)|[**StoryMaps team - Terrorist Attacks**](https://storymaps.esri.com/stories/terrorist-attacks/)|[**MAPPING MILITANTS**](http://web.stanford.edu/group/mappingmilitants/cgi-bin/)|
+|[**Elenco UE delle Associazioni Terroristiche**](https://www.consilium.europa.eu/it/policies/fight-against-terrorism/terrorist-list/)|
 
 **Geopolitica**
 
@@ -141,7 +142,7 @@ Ricerca Materiale e Report Investigativo
 |[**Biblioteca Nazionale Centrale di Roma**](http://digitale.bnc.roma.sbn.it/tecadigitale/giornali)|[**Biblioteca Digitale Università di Bologna**](https://amshistorica.unibo.it/periodici.php?init=1&srch)||
 |[**Digiteca Bibblioteca di Storia Moderna e Contemporanea**](http://digiteca.bsmc.it/?l=periodici&t=Fanfulla%20della%20domenica)|[**Bibblioteca Digitale - Quotidiani Sportivi**](http://dlib.coninet.it/?q=node/8)||
 |[**Bibblioteca Digitale Toscana**](http://www405.regione.toscana.it/TecaRicerca/home.jsp)|[**Catalogo Informatico Riviste Culturali Europee**](http://circe.lett.unitn.it/le_riviste/catalogo.html)||
-|[**Biblioteca Nazionale Braidense**](http://emeroteca.braidense.it/indice_testate.php)|[**Biblioteca di Storia Moderna e Contemporanea - Archivio**](http://digiteca.bsmc.it/mobile.html)||
+|[**Biblioteca Nazionale Braidense**](http://emeroteca.braidense.it/indice_testate.php)|[**Biblioteca di Storia Moderna e Contemporanea - Archivio**](http://digiteca.bsmc.it/mobile.html)|[**ARCHIVIO BENI CULTURALI**](https://www.memoria.san.beniculturali.it/web/memoria)|
 
 **ESTERE**
 |[**Bibblioteca Gallica - Francia**](https://gallica.bnf.fr/html/und/presse-et-revues/les-principaux-quotidiens?mode=desktop)|
