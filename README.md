@@ -6,7 +6,7 @@
 | :--- | :--- |
 |[**GUERRE E TERRORISMO**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#terrorismo)|[**CORPINT** - Intelligence sulle Aziende](https://github.com/CScorza/CORPINT-Corporate-Intelligence)|
 |[**CRIMINALITA' ORGANIZZATA**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#criminalit%C3%A0-organizzata)|[**VATINT** - Intelligence sui Veicoli e sui Trasporti](https://github.com/CScorza/Tool-VATINT)|
-|[**CYBERCRIME**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#cybercrime)||
+|[**CYBERCRIME**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#cybercrime)|[**Image OSINT-Forensics**](https://github.com/CScorza/Image-OSINT-Forensics)|
 |[**STRUMENTI UTILI**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#strumenti-utili)||
 |[**ARCHIVIO ITALIA**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#archivio)||
 |[**ARCHIVIO ESTERO**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#archivio-giornali-esteri)||
@@ -35,18 +35,19 @@
 
 |![monophy](https://user-images.githubusercontent.com/98583912/200569948-0a42db58-5dc0-4c27-b4cc-ae944739e610.gif)|[**Fortinet - Threat Map**](https://threatmap.fortiguard.com/)|[**Kaspersky CyberMap**](https://cybermap.kaspersky.com/)|
 | :--- | :--- | :--- |
-||[**Check Point - Threat Map**](https://threatmap.checkpoint.com/)||
+||[**Check Point - Threat Map**](https://threatmap.checkpoint.com/)|[**Double Extortion - Dashboard**](https://doubleextortion.com/#/dashboard)|
 
 **DEEPWEB**
-|INDIRIZZI ONION |INDIRIZZI CLEAR|STRUMENTI|
-| :--- | :--- | :--- |
-|[Dark Site.onion](http://wikilink77h7lrbi.onion.ly/dark-sites-on.html)|[AHMIA](https://ahmia.fi/)|[GitHub - Dark Web Osint Tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)|
-||[Dark Fail](https://dark.fail/)|[GitHub - DarkWeb Superficie di attacco OSINT](https://github.com/sinwindie/OSINT/blob/master/DarkWeb/DWM%20OSINT%20Attack%20Surface.png)|
-||[Social Cat Fish](https://socialcatfish.com/)||
-||[Tor Whois](https://torwhois.com/)||
-||[Deep Onion Web](https://www.deeponionweb.com/)||
-||[OsintCombine - Dark Web Searching](https://www.osintcombine.com/post/dark-web-searching)||
-||[osintme - List of Darknet Markets for Investigators](https://www.osintme.com/index.php/2021/02/20/list-of-darknet-markets-for-investigators-2/)||
+![darkweb2](https://user-images.githubusercontent.com/98583912/200968994-f6f6747e-4d79-4027-a327-47e4d8027dcf.gif)
+|**INDIRIZZI**|**ONION**|**CLEAR**|**STRUMENTI**|
+| :---: | :---: | :---: | :---: |
+|![deepweb](https://user-images.githubusercontent.com/98583912/200969451-f0236819-a03b-459b-b4ed-e5f951a8bc9e.gif)|[**Dark Site.onion**](http://wikilink77h7lrbi.onion.ly/dark-sites-on.html)|[**AHMIA**](https://ahmia.fi/)|[**GitHub - Dark Web Osint Tools**](https://github.com/apurvsinghgautam/dark-web-osint-tools)|
+|[**The Intercept**](https://xpxduj55x2j27l2qytu2tcetykyfxbjbafin3x4i3ywddzphkbrd3jyd.onion/)|[**DuckDuckGo**](https://3g2upl4pq6kufc4m.onion)|[**Dark Fail**](https://dark.fail/)|[**GitHub - DarkWeb Superficie di attacco OSINT**](https://github.com/sinwindie/OSINT/blob/master/DarkWeb/DWM%20OSINT%20Attack%20Surface.png)|
+||[**ProPublica**](https://www.propub3r6espa33w.onion)|[**Social Cat Fish**](https://socialcatfish.com/)|[**Malpedia**](https://malpedia.caad.fkie.fraunhofer.de/)|
+||[**AHMIA**](http://msydqstlz2kzerdg.onion )|[**Tor Whois**](https://torwhois.com/)|[**RansomLook**](https://www.ransomlook.io/recent)|
+||[**Riseup**](http://nzh3fv6jc6jskki3.onion)|[**Deep Onion Web**](https://www.deeponionweb.com/)|[**VX-Underground.org**](https://www.vx-underground.org/index.html)|
+||[**Archive.today**](http://archivecaslytosk.onion/)|[**OsintCombine - Dark Web Searching**](https://www.osintcombine.com/post/dark-web-searching)|[**GitHub - CyberCriminal Campagin Collections**](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)|
+|[**MDlink - Siti TOR**](https://maidirelink.it/i-migliori-siti-deep-web-e-dark-web-che-non-troverai-su-google/)|[**CIA**](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion)|[**Osintme - List of Darknet Markets for Investigators**](https://www.osintme.com/index.php/2021/02/20/list-of-darknet-markets-for-investigators-2/)|[**ORKL**](https://orkl.eu/)|
 
 
 **Terrorismo in Italia**
@@ -61,9 +62,9 @@
 **Live Estero**
 |![Criminalità Organizzata](https://user-images.githubusercontent.com/98583912/200570902-ccadcb6f-2d0c-4e13-b1ab-99830cc44459.gif)|[**Numbeo - Indice di Criminalità per Paese**](https://www.numbeo.com/crime/rankings_by_country.jsp)|[**NationMaster - Tasso di Omicidi per Paese**](https://www.nationmaster.com/country-info/stats/Crime/Violent-crime/Murder-rate)|
 | :--- | :--- | :--- |  
-|BRASILE|[**FogoCruzado - Crime in Brasile**](https://fogocruzado.org.br/)|
-|REGNO UNITO|[**Corporate Crime**](https://www.corporatecrime.co.uk/)|
-|SVEZIA|[**Il Giornale - Guerra delle Gang della Droga**](https://insideover-ilgiornale-it.cdn.ampproject.org/c/s/insideover.ilgiornale.it/societa/alle-origini-della-guerra-della-droga-svedese.html/amp)|
+|_BRASILE_|[**FogoCruzado - Crime in Brasile**](https://fogocruzado.org.br/)|
+|_REGNO UNITO_|[**Corporate Crime**](https://www.corporatecrime.co.uk/)|
+|_SVEZIA_|[**Il Giornale - Guerra delle Gang della Droga**](https://insideover-ilgiornale-it.cdn.ampproject.org/c/s/insideover.ilgiornale.it/societa/alle-origini-della-guerra-della-droga-svedese.html/amp)|
 
 
 **Live Italia**
@@ -94,14 +95,12 @@
 |[**Wayback Archive.org**](http://web.archive.org/)|[**Cached Pages**](http://www.cachedpages.com/)|
 |[**Cached View**](http://cachedview.com/)|[**Archive.org**](https://archive.org/)|
 
-**Strumenti Software**
-|[**SpiderFoot**](https://sourceforge.net/projects/spiderfoot/)|[**MALTEGO**](https://www.paterva.com/buy/maltego-clients/maltego-ce.php)|
-| :--- | :--- |
-
 
 **Testi**
 |[**OSINT - HANDBOOK 2020**](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)|
 | :--- |
+|[**ICT Security Magazine** - Quaderni di Cyber Intelligence](https://www.ictsecuritymagazine.com/pubblicazioni/quaderni-di-cyber-intelligence-1/)|
+
 
 # ARCHIVIO 
 
