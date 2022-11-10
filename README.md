@@ -1,6 +1,6 @@
 ![Logo](https://user-images.githubusercontent.com/98583912/200357294-389cc67b-3cc5-4fdb-b260-660b4621cb74.gif)
 
-# Tecniche OSINT per il reperimento di notizie ed informazioni comunemente non reperibili dal comune fruitore di internet
+**_Tecniche OSINT per il reperimento di notizie ed informazioni_**
 
 |INDICE|AIUTI ALL'INVESTIGAZIONE|
 | :--- | :--- |
