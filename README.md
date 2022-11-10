@@ -12,7 +12,7 @@
 |[**ARCHIVIO ESTERO**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#archivio-giornali-esteri)||
 |[**ARCHIVIO STORICO PAGINE WEB**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#archivio-storico-web)|| 
 
-# GUERRE E TERRORISMO
+# TERRORISMO
 ```
 Il termine terrorismo nel diritto internazionale, soprattutto in ambito penale, 
 indica azioni criminali violente premeditate aventi lo scopo di suscitare terrore 
