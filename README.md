@@ -7,12 +7,21 @@
 |[**GUERRE E TERRORISMO**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#terrorismo)|[**CORPINT** - Intelligence sulle Aziende](https://github.com/CScorza/CORPINT-Corporate-Intelligence)|
 |[**CRIMINALITA' ORGANIZZATA**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#criminalit%C3%A0-organizzata)|[**VATINT** - Intelligence sui Veicoli e sui Trasporti](https://github.com/CScorza/Tool-VATINT)|
 |[**CYBERCRIME**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#cybercrime)|[**Image OSINT-Forensics**](https://github.com/CScorza/Image-OSINT-Forensics)|
-|[**STRUMENTI UTILI**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#strumenti-utili)||
+|[**STRUMENTI UTILI**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#strumenti-utili)|[**Tecniche di Navigazione Sicura**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)|
 |[**ARCHIVIO ITALIA**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#archivio)||
 |[**ARCHIVIO ESTERO**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#archivio-giornali-esteri)||
 |[**ARCHIVIO STORICO PAGINE WEB**](https://github.com/CScorza/OSINTInvestigation/edit/main/README.md#archivio-storico-web)|| 
 
 # GUERRE E TERRORISMO
+```
+Il termine terrorismo nel diritto internazionale, soprattutto in ambito penale, 
+indica azioni criminali violente premeditate aventi lo scopo di suscitare terrore 
+nella popolazione tra le quali attentati, omicidi, stragi, sequestri, sabotaggi, 
+dirottamenti ed altri eventi che causino danno di collettività 
+ad enti quali istituzioni statali, enti pubblici, governi, 
+esponenti politici e pubblici, gruppi politici, etnici e religiosi.
+Wikipedia
+```
 ![Terrorismo](https://user-images.githubusercontent.com/98583912/200565001-66b13893-8a7f-43cf-b8b6-2c5a4e10afb1.gif)
 ## Monitoraggio Live
 |![Mappa Conflitti](https://user-images.githubusercontent.com/98583912/200566813-3dc06d5c-d3ed-4a1c-b5d7-902c4cbd2379.gif)|[**UCDP - Uppsala Conflict Data Program**](https://ucdp.uu.se/exploratory)|[**Every Disputed Territory in the World - Interactive Map**](http://metrocosm.com/disputed-territories-map.html)|
@@ -31,11 +40,34 @@
 | :--- | :--- | :--- |  
 |[**Il Giornale - Inside Over**](https://insideover.ilgiornale.it/)|[**Counter Extremism Project**](https://www.counterextremism.com/glossary)|
 
+**Terrorismo in Italia**
+|**Anarchici**|**Brigate Rosse**|**Terrorismo di Destra**|
+| :---: | :---: | :---: |
+|![Anarchici](https://user-images.githubusercontent.com/98583912/200679490-c2107816-bdfc-4fd5-ad69-e40034d9f90c.gif)|![brigate rossi](https://user-images.githubusercontent.com/98583912/200679517-3fc44f95-a63e-4a8f-b12b-859a9299679a.gif)|![NAR](https://user-images.githubusercontent.com/98583912/200679560-f0509a1e-ff94-4fa2-9e99-3e36c23f1b22.gif)|
+|[**Anarcopedia**](https://www.anarcopedia.org/index.php/Simbolismo_anarchico)|[**wikipedia - Brigate Rosse**](https://it.wikipedia.org/wiki/Brigate_Rosse)|[**Wikipedia - Nuclei Armati Rivoluzionari**](https://it.wikipedia.org/wiki/Nuclei_Armati_Rivoluzionari)|
+|[**Correnti del Pensiero Anarchico**](https://it.wikipedia.org/wiki/Scuole_di_pensiero_anarchico)|[**Il "nucleo storico" delle BR**](http://www.robertobartali.it/cap04.htm)|[**Un percorso di storicizzazione**](https://www.bibliomanie.it/?p=4058)|
+|[**DIACRONIE - La federazione anarchica italiana**](https://journals.openedition.org/diacronie/2991?lang=fr)|||
+
 # CyberCrime
 
 |![monophy](https://user-images.githubusercontent.com/98583912/200569948-0a42db58-5dc0-4c27-b4cc-ae944739e610.gif)|[**Fortinet - Threat Map**](https://threatmap.fortiguard.com/)|[**Kaspersky CyberMap**](https://cybermap.kaspersky.com/)|
 | :--- | :--- | :--- |
 ||[**Check Point - Threat Map**](https://threatmap.checkpoint.com/)|[**Double Extortion - Dashboard**](https://doubleextortion.com/#/dashboard)|
+
+||**Per accedere al DeepWeb eseguire i seguenti passaggi**||
+| :--- | :---: | ---: |
+|**1**|**Installare**|[**Tor Browser**](https://www.torproject.org/it/download/)|
+|**2**|[**Utilizzo di Tecniche di Navigazione Sicura**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)||
+|**3**|**Utilizzare una VPN**||
+||[**NordVPN**](https://nordvpn.com/it/)||
+||[**Surfshark**](https://surfshark.com/it/)||
+||[**ExpressVPN**](https://www.expressvpn.com/it)||
+||[**CyberGhost**](https://www.cyberghostvpn.com/it_IT/)||
+||[**IPVanish**](https://www.ipvanish.com/)||
+||[**TorGuard**](https://torguard.net/)||
+||[**FastestVPN**](https://fastestvpn.com/)||
+|**4**|**Utilizzare uno dei link presenti sotto**||
+
 
 **DEEPWEB**
 ![darkweb2](https://user-images.githubusercontent.com/98583912/200968994-f6f6747e-4d79-4027-a327-47e4d8027dcf.gif)
@@ -48,33 +80,10 @@
 ||[**Riseup**](http://nzh3fv6jc6jskki3.onion)|[**Deep Onion Web**](https://www.deeponionweb.com/)|[**VX-Underground.org**](https://www.vx-underground.org/index.html)|
 ||[**Archive.today**](http://archivecaslytosk.onion/)|[**OsintCombine - Dark Web Searching**](https://www.osintcombine.com/post/dark-web-searching)|[**GitHub - CyberCriminal Campagin Collections**](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)|
 |[**MDlink - Siti TOR**](https://maidirelink.it/i-migliori-siti-deep-web-e-dark-web-che-non-troverai-su-google/)|[**CIA**](http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion)|[**Osintme - List of Darknet Markets for Investigators**](https://www.osintme.com/index.php/2021/02/20/list-of-darknet-markets-for-investigators-2/)|[**ORKL**](https://orkl.eu/)|
-
-
-**Terrorismo in Italia**
-|Archichi|Brigate Rosse|Terrorismo di Destra|
-| :---: | :---: | :---: |
-|![Anarchici](https://user-images.githubusercontent.com/98583912/200679490-c2107816-bdfc-4fd5-ad69-e40034d9f90c.gif)|![brigate rossi](https://user-images.githubusercontent.com/98583912/200679517-3fc44f95-a63e-4a8f-b12b-859a9299679a.gif)|![NAR](https://user-images.githubusercontent.com/98583912/200679560-f0509a1e-ff94-4fa2-9e99-3e36c23f1b22.gif)|
-|[Anarcopedia](https://www.anarcopedia.org/index.php/Simbolismo_anarchico)|[wikipedia - Brigate Rosse](https://it.wikipedia.org/wiki/Brigate_Rosse)|[Wikipedia - Nuclei Armati Rivoluzionari](https://it.wikipedia.org/wiki/Nuclei_Armati_Rivoluzionari)|
-
-# CRIMINALITA ORGANIZZATA 
-
-## Crime Monitoraggio Live
-**Live Estero**
-|![Criminalità Organizzata](https://user-images.githubusercontent.com/98583912/200570902-ccadcb6f-2d0c-4e13-b1ab-99830cc44459.gif)|[**Numbeo - Indice di Criminalità per Paese**](https://www.numbeo.com/crime/rankings_by_country.jsp)|[**NationMaster - Tasso di Omicidi per Paese**](https://www.nationmaster.com/country-info/stats/Crime/Violent-crime/Murder-rate)|
-| :--- | :--- | :--- |  
-|_BRASILE_|[**FogoCruzado - Crime in Brasile**](https://fogocruzado.org.br/)|
-|_REGNO UNITO_|[**Corporate Crime**](https://www.corporatecrime.co.uk/)|
-|_SVEZIA_|[**Il Giornale - Guerra delle Gang della Droga**](https://insideover-ilgiornale-it.cdn.ampproject.org/c/s/insideover.ilgiornale.it/societa/alle-origini-della-guerra-della-droga-svedese.html/amp)|
-
-
-**Live Italia**
-|![DIA](https://user-images.githubusercontent.com/98583912/200573426-05cacdbd-fcb1-4ea6-ad5e-2e627ea39e38.gif)|[**DIREZIONE INVESTIGATIVA ANTIMAFIA - Archivio Semestrale**](https://direzioneinvestigativaantimafia.interno.gov.it/relazioni-semestrali/)|[**Milano Crime Monitoring**](http://milanocrimemonitoring.com/)|
-| :--- | :--- | :--- |  
-||[**Minecrime Monitorare la Criminalita**](https://www.anyreality.it/minecrime-monitorare-la-criminalita/)|[**Bologna Bike Watch - Statistiche**](http://www.bolognabikewatch.com/statistiche.php)|
-
-**Glossario**
-|![Glossario Mafia](https://user-images.githubusercontent.com/98583912/200581457-50412f63-8241-429e-bb5d-90d1c9d18a56.gif)|[**Glossario Mafia**](https://mafianeindanke.de/wp-content/uploads/GLOSSARIO-ITA.pdf)|
-| :--- | :--- |
+|||[**TOR Node List**](https://www.dan.me.uk/tornodes)|[**OSINTCOMBINE - DARK WEB SEARCHING**](https://www.osintcombine.com/post/dark-web-searching)|
+|||[**Darknet Dictionary**](https://darkweblink.com/darknet-dictionary/)|[**Dark Web Resources**](https://sites.google.com/view/the-dark-net/home)|
+|||[**DarkNet Market Mortality Risk**](https://www.gwern.net/DNM-survival#)|[**Darkweb OSINT ME**](https://www.osintme.com/index.php/2022/02/12/darkweb-osint-investigations-resources-for-2022/)|
+|||[**DarkWeb Map**](https://blog.hyperiongray.com/dark-web-map-introduction/)||
 
 # STRUMENTI UTILI
 
@@ -101,6 +110,35 @@
 | :--- |
 |[**ICT Security Magazine** - Quaderni di Cyber Intelligence](https://www.ictsecuritymagazine.com/pubblicazioni/quaderni-di-cyber-intelligence-1/)|
 
+
+# CRIMINALITA ORGANIZZATA 
+```
+La definizione di criminalità organizzata (o crimine organizzato),
+indica le attività criminose di particolari tipi di organizzazioni, 
+definite organizzazioni criminali, non costituite in maniera fortuita 
+per la commissione estemporanea di reati, 
+ma organizzate in maniera relativamente stabile 
+con uno schema gerarchico e con un obiettivo comune.
+Wipedia
+```
+
+## Crime Monitoraggio Live
+**Live Estero**
+|![Criminalità Organizzata](https://user-images.githubusercontent.com/98583912/200570902-ccadcb6f-2d0c-4e13-b1ab-99830cc44459.gif)|[**Numbeo - Indice di Criminalità per Paese**](https://www.numbeo.com/crime/rankings_by_country.jsp)|[**NationMaster - Tasso di Omicidi per Paese**](https://www.nationmaster.com/country-info/stats/Crime/Violent-crime/Murder-rate)|
+| :--- | :--- | :--- |  
+|_BRASILE_|[**FogoCruzado - Crime in Brasile**](https://fogocruzado.org.br/)|
+|_REGNO UNITO_|[**Corporate Crime**](https://www.corporatecrime.co.uk/)|
+|_SVEZIA_|[**Il Giornale - Guerra delle Gang della Droga**](https://insideover-ilgiornale-it.cdn.ampproject.org/c/s/insideover.ilgiornale.it/societa/alle-origini-della-guerra-della-droga-svedese.html/amp)|
+
+
+**Live Italia**
+|![DIA](https://user-images.githubusercontent.com/98583912/200573426-05cacdbd-fcb1-4ea6-ad5e-2e627ea39e38.gif)|[**DIREZIONE INVESTIGATIVA ANTIMAFIA - Archivio Semestrale**](https://direzioneinvestigativaantimafia.interno.gov.it/relazioni-semestrali/)|[**Milano Crime Monitoring**](http://milanocrimemonitoring.com/)|
+| :--- | :--- | :--- |  
+||[**Minecrime Monitorare la Criminalita**](https://www.anyreality.it/minecrime-monitorare-la-criminalita/)|[**Bologna Bike Watch - Statistiche**](http://www.bolognabikewatch.com/statistiche.php)|
+
+**Glossario**
+|![Glossario Mafia](https://user-images.githubusercontent.com/98583912/200581457-50412f63-8241-429e-bb5d-90d1c9d18a56.gif)|[**Glossario Mafia**](https://mafianeindanke.de/wp-content/uploads/GLOSSARIO-ITA.pdf)|
+| :--- | :--- |
 
 # ARCHIVIO 
 
