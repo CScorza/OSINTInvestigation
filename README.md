@@ -4,13 +4,13 @@
 
 |INDICE|AIUTI ALL'INVESTIGAZIONE|
 | :--- | :--- |
-|[**GUERRE E TERRORISMO**](https://github.com/CScorza/OSINTInvestigation##terrorismo)|[**CORPINT** - Intelligence sulle Aziende](https://github.com/CScorza/CORPINT-Corporate-Intelligence)|
-|[**CRIMINALITA' ORGANIZZATA**](https://github.com/CScorza/OSINTInvestigation##criminalit%C3%A0-organizzata)|[**VATINT** - Intelligence sui Veicoli e sui Trasporti](https://github.com/CScorza/Tool-VATINT)|
+|[**GUERRE E TERRORISMO**](https://github.com/CScorza/OSINTInvestigation#terrorismo)|[**CORPINT** - Intelligence sulle Aziende](https://github.com/CScorza/CORPINT-Corporate-Intelligence)|
+|[**CRIMINALITA' ORGANIZZATA**](https://github.com/CScorza/OSINTInvestigation#criminalita-organizzata)|[**VATINT** - Intelligence sui Veicoli e sui Trasporti](https://github.com/CScorza/Tool-VATINT)|
 |[**CYBERCRIME**](https://github.com/CScorza/OSINTInvestigation#cybercrime)|[**Image OSINT-Forensics**](https://github.com/CScorza/Image-OSINT-Forensics)|
-|[**STRUMENTI UTILI**](https://github.com/CScorza/OSINTInvestigation##strumenti-utili)|[**Tecniche di Navigazione Sicura**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)|
-|[**ARCHIVIO ITALIA**](https://github.com/CScorza/OSINTInvestigation##archivio)||
-|[**ARCHIVIO ESTERO**](https://github.com/CScorza/OSINTInvestigation##archivio-giornali-esteri)||
-|[**ARCHIVIO STORICO PAGINE WEB**](https://github.com/CScorza/OSINTInvestigation#archivio-storico-web)|| 
+|[**STRUMENTI UTILI**](https://github.com/CScorza/OSINTInvestigation#strumenti-utili)|[**Tecniche di Navigazione Sicura**](https://github.com/CScorza/Data-Protection#rendersi-anonimi-nel-web)|
+|[**ARCHIVIO**](https://github.com/CScorza/OSINTInvestigation#archivio)||
+|[**ARCHIVIO BIBBLIOTECHE**](https://github.com/CScorza/OSINTInvestigation#archivio-bibblioteche)||
+|[**ARCHIVIO STORICO PAGINE WEB**](https://github.com/CScorza/OSINTInvestigation#archivio-storico-pagine-web)|| 
 
 # TERRORISMO
 ```
