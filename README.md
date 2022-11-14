@@ -2,7 +2,7 @@
 
 **_Tecniche OSINT per il reperimento di notizie ed informazioni_**
 
-|INDICE|AIUTI ALL'INVESTIGAZIONE|
+|**INDICE**|**AIUTI ALL'INVESTIGAZIONE**|
 | :--- | :--- |
 |[**GUERRE E TERRORISMO**](https://github.com/CScorza/OSINTInvestigation#terrorismo)|[**CORPINT** - Intelligence sulle Aziende](https://github.com/CScorza/CORPINT-Corporate-Intelligence)|
 |[**CRIMINALITA' ORGANIZZATA**](https://github.com/CScorza/OSINTInvestigation#criminalita-organizzata)|[**VATINT** - Intelligence sui Veicoli e sui Trasporti](https://github.com/CScorza/Tool-VATINT)|
@@ -71,7 +71,7 @@ Wikipedia
 
 **DEEPWEB**
 ![darkweb2](https://user-images.githubusercontent.com/98583912/200968994-f6f6747e-4d79-4027-a327-47e4d8027dcf.gif)
-|**INDIRIZZI**|**ONION**|**CLEAR**|**STRUMENTI**|
+|**INDIRIZZI**|**ONION**|**SURFACE WEB**|**STRUMENTI**|
 | :---: | :---: | :---: | :---: |
 |![deepweb](https://user-images.githubusercontent.com/98583912/200969451-f0236819-a03b-459b-b4ed-e5f951a8bc9e.gif)|[**Dark Site.onion**](http://wikilink77h7lrbi.onion.ly/dark-sites-on.html)|[**AHMIA**](https://ahmia.fi/)|[**GitHub - Dark Web Osint Tools**](https://github.com/apurvsinghgautam/dark-web-osint-tools)|
 |[**The Intercept**](https://xpxduj55x2j27l2qytu2tcetykyfxbjbafin3x4i3ywddzphkbrd3jyd.onion/)|[**DuckDuckGo**](https://3g2upl4pq6kufc4m.onion)|[**Dark Fail**](https://dark.fail/)|[**GitHub - DarkWeb Superficie di attacco OSINT**](https://github.com/sinwindie/OSINT/blob/master/DarkWeb/DWM%20OSINT%20Attack%20Surface.png)|
@@ -83,11 +83,22 @@ Wikipedia
 |||[**TOR Node List**](https://www.dan.me.uk/tornodes)|[**OSINTCOMBINE - DARK WEB SEARCHING**](https://www.osintcombine.com/post/dark-web-searching)|
 |||[**Darknet Dictionary**](https://darkweblink.com/darknet-dictionary/)|[**Dark Web Resources**](https://sites.google.com/view/the-dark-net/home)|
 |||[**DarkNet Market Mortality Risk**](https://www.gwern.net/DNM-survival#)|[**Darkweb OSINT ME**](https://www.osintme.com/index.php/2022/02/12/darkweb-osint-investigations-resources-for-2022/)|
-|||[**DarkWeb Map**](https://blog.hyperiongray.com/dark-web-map-introduction/)||
+|↓|↓|[**DarkWeb Map**](https://blog.hyperiongray.com/dark-web-map-introduction/)||
+
+![Tor Browser](https://user-images.githubusercontent.com/98583912/201673883-e5619d7f-ec10-4ede-b626-a4ca3d7ee820.gif)
 
 # STRUMENTI UTILI
 
 **GOOGLE DORK**
+```
+Le Google dork sono una tecnica di ricerca avanzata che può aiutare 
+a scoprire dei dati nascosti ed indicizzati dal motore di ricerca Google, 
+rispondendo ad una particolare esigenza di ricerca. 
+Ad esempio, potresti essere in grado di scoprire la dichiarazione dei redditi di un’azienda o 
+le note spese di un’amministrazione comunale, 
+dettagli che potrebbero non essere visualizzati sui loro siti Web o 
+visualizzati quando esegui una ricerca web di routine.
+```
 - Come rendere più efficace una ricerca
 ![Operatore di ricerca](https://user-images.githubusercontent.com/98583912/200526901-c7d252df-a55b-4640-9ad5-c324b6dcdd1a.gif)
 
@@ -99,10 +110,10 @@ Wikipedia
 |[**Web Inspector**](https://gijn.org/2021/07/28/digging-up-hidden-data-with-the-web-inspector/)|[**News Klaxon - Monitoraggio**](https://newsklaxon.org/)|
 
 # ARCHIVIO STORICO PAGINE WEB
-|![Internet Archivio](https://user-images.githubusercontent.com/98583912/200618942-2d87278d-774d-4e8f-9c20-38b131077ace.gif)|[**Archive**](http://archive.is/)|
-| :--- | :--- |
-|[**Wayback Archive.org**](http://web.archive.org/)|[**Cached Pages**](http://www.cachedpages.com/)|
-|[**Cached View**](http://cachedview.com/)|[**Archive.org**](https://archive.org/)|
+|![Internet Archivio](https://user-images.githubusercontent.com/98583912/200618942-2d87278d-774d-4e8f-9c20-38b131077ace.gif)|Indirizzi di Archivio pagine web|Strumenti| 
+| :--- | :--- | :--- |
+|[**Wayback Archive.org**](http://web.archive.org/)|[**Cached Pages**](http://www.cachedpages.com/)|[**Archive**](http://archive.is/)|
+|[**Cached View**](http://cachedview.com/)|[**Archive.org**](https://archive.org/)||
 
 
 **Testi**
@@ -133,9 +144,11 @@ Wipedia
 
 
 **Live Italia**
-|![DIA](https://user-images.githubusercontent.com/98583912/200573426-05cacdbd-fcb1-4ea6-ad5e-2e627ea39e38.gif)|[**DIREZIONE INVESTIGATIVA ANTIMAFIA - Archivio Semestrale**](https://direzioneinvestigativaantimafia.interno.gov.it/relazioni-semestrali/)|[**Milano Crime Monitoring**](http://milanocrimemonitoring.com/)|
-| :--- | :--- | :--- |  
-|[**Ministero dell'Interno - lista Latitanti**](https://www.interno.gov.it/it/ministero/dipartimenti/dipartimento-pubblica-sicurezza/direzione-centrale-polizia-criminale/direzione-centrale-polizia-criminale-elenco-dei-latitanti-massima-pericolosita)|[**Minecrime Monitorare la Criminalita**](https://www.anyreality.it/minecrime-monitorare-la-criminalita/)|[**Bologna Bike Watch - Statistiche**](http://www.bolognabikewatch.com/statistiche.php)|
+|![DIA](https://user-images.githubusercontent.com/98583912/200573426-05cacdbd-fcb1-4ea6-ad5e-2e627ea39e38.gif)|Siti Istituzionali|Strumenti Utili al Monitoraggio di Eventi Criminosi|
+| :--- | :--- | :--- | 
+||[**DIREZIONE INVESTIGATIVA ANTIMAFIA** - _Archivio Semestrale sull'infiltrazioni mafiosi nelle provincie d'Italia_](https://direzioneinvestigativaantimafia.interno.gov.it/relazioni-semestrali/)|[**Milano Crime Monitoring**](http://milanocrimemonitoring.com/)| 
+||[**Ministero dell'Interno - lista Latitanti**](https://www.interno.gov.it/it/ministero/dipartimenti/dipartimento-pubblica-sicurezza/direzione-centrale-polizia-criminale/direzione-centrale-polizia-criminale-elenco-dei-latitanti-massima-pericolosita)|[**Minecrime Monitorare la Criminalita**](https://www.anyreality.it/minecrime-monitorare-la-criminalita/)|
+|||[**Bologna Bike Watch - Statistiche**](http://www.bolognabikewatch.com/statistiche.php)|
 
 **Glossario**
 |![Glossario Mafia](https://user-images.githubusercontent.com/98583912/200581457-50412f63-8241-429e-bb5d-90d1c9d18a56.gif)|[**Glossario Mafia**](https://mafianeindanke.de/wp-content/uploads/GLOSSARIO-ITA.pdf)|
@@ -146,14 +159,14 @@ Wipedia
 ```
 Ricerca Materiale e Report Investigativo
 ```
-
-|![Giornalismo investigativo](https://user-images.githubusercontent.com/98583912/200577020-39eeee8a-e241-413a-9a1b-ca03b8342234.gif)|[**OCCRP Aleph**](https://data.occrp.org/)|[**GIORNALISMO INVESTIGATIVO**](https://www.journaliststoolbox.org/2022/11/06/investigative_backgrounding/)|
+|![Giornalismo investigativo](https://user-images.githubusercontent.com/98583912/200577020-39eeee8a-e241-413a-9a1b-ca03b8342234.gif)|L'archivio globale del materiale di ricerca per la cronaca investigativa|Strumenti per il Giornalismo Investigativo|
 | :--- | :--- | :--- |
+||[**OCCRP Aleph**](https://data.occrp.org/)|[**GIORNALISMO INVESTIGATIVO**](https://www.journaliststoolbox.org/2022/11/06/investigative_backgrounding/)|
 
 **Mappe** 
-|![Giornali](https://user-images.githubusercontent.com/98583912/200620103-e0555da9-5e69-4110-b420-efa16c706caf.gif)|[**News Paper Map**](https://newspapermap.com/)|[**TrackoGraphy - Global Media**](https://trackography.org/)|
+|![Giornali](https://user-images.githubusercontent.com/98583912/200620103-e0555da9-5e69-4110-b420-efa16c706caf.gif)|Giornali del Mondo | Tracking dei siti Giornalistici|
 | :--- | :--- | :--- |  
-
+||[**News Paper Map**](https://newspapermap.com/)|[**TrackoGraphy - Global Media**](https://trackography.org/)|
 **Criminalita Ambientale**
 |![Ambiente](https://user-images.githubusercontent.com/98583912/200619715-54c6f574-918a-4db6-a487-6cde55fd5f88.gif)|[**C4ADs Wildlife Dashboard**](https://wildlifedashboard.c4ads.org/)|[**MineAlert**](https://mine-alert.oxpeckers.org/#/map?latitude=-28.687890929617115&longitude=24.679500000000008&zoom=4)|
 | :--- | :--- | :--- |  
