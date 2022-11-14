@@ -167,9 +167,11 @@ Ricerca Materiale e Report Investigativo
 |![Giornali](https://user-images.githubusercontent.com/98583912/200620103-e0555da9-5e69-4110-b420-efa16c706caf.gif)|Giornali del Mondo | Tracking dei siti Giornalistici|
 | :--- | :--- | :--- |  
 ||[**News Paper Map**](https://newspapermap.com/)|[**TrackoGraphy - Global Media**](https://trackography.org/)|
+
 **Criminalita Ambientale**
 |![Ambiente](https://user-images.githubusercontent.com/98583912/200619715-54c6f574-918a-4db6-a487-6cde55fd5f88.gif)|[**C4ADs Wildlife Dashboard**](https://wildlifedashboard.c4ads.org/)|[**MineAlert**](https://mine-alert.oxpeckers.org/#/map?latitude=-28.687890929617115&longitude=24.679500000000008&zoom=4)|
 | :--- | :--- | :--- |  
+||Dashboard per sequestri di Fauna Selvatica|Dashboard Risorse Minerarie|
 
 **Criminalità Organizzata**
 |![mafia](https://user-images.githubusercontent.com/98583912/200586046-10f9b522-5c7a-48a3-b67f-87a296801e16.gif)|[**Archivio AntiMafia**](https://www.archivioantimafia.org/)|[**WikiMafia**](https://www.wikimafia.it/wiki/index.php?title=Pagina_principale)|
