@@ -41,18 +41,27 @@ Wikipedia
 |[**Il Giornale - Inside Over**](https://insideover.ilgiornale.it/)|[**Counter Extremism Project**](https://www.counterextremism.com/glossary)|
 
 **Terrorismo in Italia**
-|**Anarchici**|**Brigate Rosse**|**Terrorismo di Destra**|
-| :---: | :---: | :---: |
-|![Anarchici](https://user-images.githubusercontent.com/98583912/200679490-c2107816-bdfc-4fd5-ad69-e40034d9f90c.gif)|![brigate rossi](https://user-images.githubusercontent.com/98583912/200679517-3fc44f95-a63e-4a8f-b12b-859a9299679a.gif)|![NAR](https://user-images.githubusercontent.com/98583912/200679560-f0509a1e-ff94-4fa2-9e99-3e36c23f1b22.gif)|
-|[**Anarcopedia**](https://www.anarcopedia.org/index.php/Simbolismo_anarchico)|[**wikipedia - Brigate Rosse**](https://it.wikipedia.org/wiki/Brigate_Rosse)|[**Wikipedia - Nuclei Armati Rivoluzionari**](https://it.wikipedia.org/wiki/Nuclei_Armati_Rivoluzionari)|
-|[**Correnti del Pensiero Anarchico**](https://it.wikipedia.org/wiki/Scuole_di_pensiero_anarchico)|[**Il "nucleo storico" delle BR**](http://www.robertobartali.it/cap04.htm)|[**Un percorso di storicizzazione**](https://www.bibliomanie.it/?p=4058)|
-|[**DIACRONIE - La federazione anarchica italiana**](https://journals.openedition.org/diacronie/2991?lang=fr)|||
+
+|**Siti Generici**|**Anarchici**|**Brigate Rosse**|**Terrorismo di Destra**|
+| :---: | :---: | :---: | :---: |
+|![Terrorismo](https://user-images.githubusercontent.com/98583912/201709466-56619d0c-6fa7-4d08-8a2e-dc98ff02ecf0.gif)|![Anarchici](https://user-images.githubusercontent.com/98583912/200679490-c2107816-bdfc-4fd5-ad69-e40034d9f90c.gif)|![brigate rossi](https://user-images.githubusercontent.com/98583912/200679517-3fc44f95-a63e-4a8f-b12b-859a9299679a.gif)|![NAR](https://user-images.githubusercontent.com/98583912/200679560-f0509a1e-ff94-4fa2-9e99-3e36c23f1b22.gif)|
+|[Centro di Documentazione su movimenti e organizzazioni rivoluzionarie armate in Italia](https://www.osservatoriorepressione.info/centro-di-documentazione-sebben-che-siamo-donne-storie-di-rivoluzionarie/)|[**Anarcopedia**](https://www.anarcopedia.org/index.php/Simbolismo_anarchico)|[**wikipedia - Brigate Rosse**](https://it.wikipedia.org/wiki/Brigate_Rosse)|[**Wikipedia - Nuclei Armati Rivoluzionari**](https://it.wikipedia.org/wiki/Nuclei_Armati_Rivoluzionari)|
+||[**Correnti del Pensiero Anarchico**](https://it.wikipedia.org/wiki/Scuole_di_pensiero_anarchico)|[**Il "nucleo storico" delle BR**](http://www.robertobartali.it/cap04.htm)|[**Un percorso di storicizzazione**](https://www.bibliomanie.it/?p=4058)|
+||[**DIACRONIE - La federazione anarchica italiana**](https://journals.openedition.org/diacronie/2991?lang=fr)|[**Storie in Movimento - Brigate Rosse**](http://storieinmovimento.org/tag/brigate-rosse/)|[**RollingStone - NAR**](https://www.google.com/amp/s/www.rollingstone.it/politica/breve-storia-dei-nar-e-di-come-si-e-arrivati-alla-strage-di-bologna-40-anni-fa/527699/amp/)|
+||[**Treccani - Anarchici**](https://www.treccani.it/enciclopedia/tag/anarchici/)|[**BRIGATE ROSSE DALLA A ALLA Z**](https://web.archive.org/web/20110823193329/http://www.ilcassetto.it/notizia.php?tid=538)|[**La Storia siamo Noi - NAR**](https://web.archive.org/web/20130206145646/http://www.lastoriasiamonoi.rai.it/puntate/morire-di-politica/587/default.aspx)|
+||[**Libreria Anomalia - Centro di Documentazione Anarchica**](http://www.libreriaanomalia.org/)|[Bibblioteca Marxista](http://www.bibliotecamarxista.org/autori/brigate%20rosse.html)|[Canestrini Lex - Strage di Bologna](https://canestrinilex.com/risorse/strage-di-bologna-corte-ass-bologna-488/)|
+||[**Documenti a stampa di gruppi anarchici**](http://www.memoriedimarca.it/index.php/documenti-a-stampa-di-gruppi-anarchici)|[**Archivio900**](http://www.archivio900.it/it/documenti/finestre-900.aspx?c=1050)||
+|||[**Rifondazione cinecitta - Raccolte Brigate Rosse**](https://web.archive.org/web/20090416173351/http://www.rifondazione-cinecitta.org/raccolta-brigaterosse.html)||
+|||[**Brigaterosse.org**](https://web.archive.org/web/20090413034320/http://www.brigaterosse.org/brigaterosse/)||
+|||[**Alba dei Funerali di uno Stato**](https://www.albadeifuneralidiunostato.org/documentazione/)||
+|||[**Treccani.it - Brigate Rosse**](https://www.treccani.it/enciclopedia/tag/brigate-rosse/)||
+
 
 # CyberCrime
 
 |![monophy](https://user-images.githubusercontent.com/98583912/200569948-0a42db58-5dc0-4c27-b4cc-ae944739e610.gif)|[**Fortinet - Threat Map**](https://threatmap.fortiguard.com/)|[**Kaspersky CyberMap**](https://cybermap.kaspersky.com/)|
 | :--- | :--- | :--- |
-||[**Check Point - Threat Map**](https://threatmap.checkpoint.com/)|[**Double Extortion - Dashboard**](https://doubleextortion.com/#/dashboard)|
+|Attacchi informatici in tempo reale|[**Check Point - Threat Map**](https://threatmap.checkpoint.com/)|[**Double Extortion - Dashboard**](https://doubleextortion.com/#/dashboard)|
 
 ||**Per accedere al DeepWeb eseguire i seguenti passaggi**||
 | :--- | :---: | ---: |
