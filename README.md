@@ -45,16 +45,58 @@ Wikipedia
 |**Siti Generici**|**Anarchici**|**Brigate Rosse**|**Terrorismo di Destra**|
 | :---: | :---: | :---: | :---: |
 |![Terrorismo](https://user-images.githubusercontent.com/98583912/201709466-56619d0c-6fa7-4d08-8a2e-dc98ff02ecf0.gif)|![Anarchici](https://user-images.githubusercontent.com/98583912/200679490-c2107816-bdfc-4fd5-ad69-e40034d9f90c.gif)|![brigate rossi](https://user-images.githubusercontent.com/98583912/200679517-3fc44f95-a63e-4a8f-b12b-859a9299679a.gif)|![NAR](https://user-images.githubusercontent.com/98583912/200679560-f0509a1e-ff94-4fa2-9e99-3e36c23f1b22.gif)|
+|**Fonte Wikipedia**|**L'anarchia è la tipologia d'organizzazione sociale agognata dall'anarchismo, basata sull'ideale libertario di un ordine fondato sull'autonomia e la libertà degli individui, contrapposto a ogni forma di potere costituito, compreso quello statale.**|**Le Brigate Rosse sono state un'organizzazione terroristica italiana di estrema sinistra costituitasi nel 1970 per propagandare e sviluppare la lotta armata rivoluzionaria per il comunismo.**|**La locuzione terrorismo nero in Italia indica una tipologia di eversione armata di ispirazione neofascista e nazional-rivoluzionaria e, più in generale, collegata a ideologie politiche di destra (e nella fattispecie di estrema destra)**|
 |[Centro di Documentazione su movimenti e organizzazioni rivoluzionarie armate in Italia](https://www.osservatoriorepressione.info/centro-di-documentazione-sebben-che-siamo-donne-storie-di-rivoluzionarie/)|[**Anarcopedia**](https://www.anarcopedia.org/index.php/Simbolismo_anarchico)|[**wikipedia - Brigate Rosse**](https://it.wikipedia.org/wiki/Brigate_Rosse)|[**Wikipedia - Nuclei Armati Rivoluzionari**](https://it.wikipedia.org/wiki/Nuclei_Armati_Rivoluzionari)|
 ||[**Correnti del Pensiero Anarchico**](https://it.wikipedia.org/wiki/Scuole_di_pensiero_anarchico)|[**Il "nucleo storico" delle BR**](http://www.robertobartali.it/cap04.htm)|[**Un percorso di storicizzazione**](https://www.bibliomanie.it/?p=4058)|
 ||[**DIACRONIE - La federazione anarchica italiana**](https://journals.openedition.org/diacronie/2991?lang=fr)|[**Storie in Movimento - Brigate Rosse**](http://storieinmovimento.org/tag/brigate-rosse/)|[**RollingStone - NAR**](https://www.google.com/amp/s/www.rollingstone.it/politica/breve-storia-dei-nar-e-di-come-si-e-arrivati-alla-strage-di-bologna-40-anni-fa/527699/amp/)|
 ||[**Treccani - Anarchici**](https://www.treccani.it/enciclopedia/tag/anarchici/)|[**BRIGATE ROSSE DALLA A ALLA Z**](https://web.archive.org/web/20110823193329/http://www.ilcassetto.it/notizia.php?tid=538)|[**La Storia siamo Noi - NAR**](https://web.archive.org/web/20130206145646/http://www.lastoriasiamonoi.rai.it/puntate/morire-di-politica/587/default.aspx)|
-||[**Libreria Anomalia - Centro di Documentazione Anarchica**](http://www.libreriaanomalia.org/)|[Bibblioteca Marxista](http://www.bibliotecamarxista.org/autori/brigate%20rosse.html)|[Canestrini Lex - Strage di Bologna](https://canestrinilex.com/risorse/strage-di-bologna-corte-ass-bologna-488/)|
+||[**Libreria Anomalia - Centro di Documentazione Anarchica**](http://www.libreriaanomalia.org/)|[**Bibblioteca Marxista**](http://www.bibliotecamarxista.org/autori/brigate%20rosse.html)|[**Canestrini Lex - Strage di Bologna**](https://canestrinilex.com/risorse/strage-di-bologna-corte-ass-bologna-488/)|
 ||[**Documenti a stampa di gruppi anarchici**](http://www.memoriedimarca.it/index.php/documenti-a-stampa-di-gruppi-anarchici)|[**Archivio900**](http://www.archivio900.it/it/documenti/finestre-900.aspx?c=1050)||
 |||[**Rifondazione cinecitta - Raccolte Brigate Rosse**](https://web.archive.org/web/20090416173351/http://www.rifondazione-cinecitta.org/raccolta-brigaterosse.html)||
 |||[**Brigaterosse.org**](https://web.archive.org/web/20090413034320/http://www.brigaterosse.org/brigaterosse/)||
 |||[**Alba dei Funerali di uno Stato**](https://www.albadeifuneralidiunostato.org/documentazione/)||
 |||[**Treccani.it - Brigate Rosse**](https://www.treccani.it/enciclopedia/tag/brigate-rosse/)||
+
+
+**Terrorsimo e Guerre Internazionale**
+```
+Il terrorismo internazionale è un conflitto a bassa intensità che cerca di condizionare la politica interna
+ed estera degli stati, o addirittura metterne in pericolo l'esistenza.
+```
+[**MEMIRI - Cyber Terrorism & JIHAD LAB**](https://www.memri.org/cjlab)|[**National Counterterrorism Center - TERRORIST GROUPS**](https://www.dni.gov/nctc/groups.html)|
+| :---: | :---: |
+|[**Counter Extremism**](https://www.counterextremism.com/extremists)||
+
+||**Mondo Arabo**|**Teoria**|
+| :---: | :---: | :---: |
+||**Fonte Wikipedia**|**Il terrorismo islamista è una forma di terrorismo religioso praticato da diversi gruppi di fondamentalisti musulmani per raggiungere vari obiettivi politici in nome della loro religione.**|
+|![Stato Islamico](https://user-images.githubusercontent.com/98583912/208127013-3b93ccc9-602c-4ef0-ba40-3188eec6a807.gif)|**Stato Islamico**||
+||**STATO ISLAMICO(ISIS) - "الدولة الإسلامية"**|**E' un'organizzazione terroristica paramilitare internazionale, fondata da Abu Musab al-Zarqawi (come Al-Qaida in Iraq) e da Abu Bakr al-Baghdadi (come Stato Islamico).**|
+||**Boko Haram**|**Boko Haram è un gruppo jihadista allineato con l'ISIS con sede in Nigeria. Per anni, Boko Haram ha condotto una letale insurrezione jihadista nel nord del paese per cacciare le forze governative e stabilire uno stato islamico.**|
+||**Hizb ut-Tahrir**|**Hizb ut-Tahrir è un movimento islamista internazionale che cerca di unire i musulmani sotto un unico califfato islamico.**|
+||**Jemaah Islamiyah (JI)**|**JI è un gruppo jihadista nel sud-est asiatico che cerca di stabilire un califfato nella regione con mezzi violenti. Il gruppo è guidato dal suo co-fondatore, Abu Bakar Bashir, che ha promesso fedeltà all'ISIS nel luglio 2014.**|
+|![Al Q](https://user-images.githubusercontent.com/98583912/208127389-73dc15aa-5a3b-49b9-891f-d9d4ec812f2b.gif)|**Al Qaida**||
+||**Al Qaida - "القاعدة"**|**Ã¨ l'organizzazione creata da Osama Bin Laden negli anni Novanta con l'obiettivo di "ristabilire lo Stato islamico" nel mondo.**|
+|![Al-Qaeda nel subcontinente indiano (AQIS)](https://user-images.githubusercontent.com/98583912/208132949-c755005e-819a-45fc-8d96-e41e2bdb4ca2.gif)|**Al-Qaeda nel subcontinente indiano (AQIS)**|**AQIS è il ramo più recente di al-Qaeda, fondato nel settembre 2014. Secondo quanto riferito, operando in Afghanistan, Pakistan, India, Birmania, Bangladesh e Kashmir,**|
+|![Al-Qaeda nel Maghreb islamico (AQIM)](https://user-images.githubusercontent.com/98583912/208133103-0ad29851-e68d-4112-9280-fd378cab03b2.gif)|**Al-Qaeda nel Maghreb islamico (AQIM)**|**La filiale nordafricana di Al-Qaeda, AQIM, opera in Algeria, Mali, Niger, Libia, Mauritania e Tunisia**|
+|![Fronte Al-Nusra (Hayat Tahrir al-Sham)](https://user-images.githubusercontent.com/98583912/208128289-12e02a1c-5ba0-4b5f-b97b-46412a0a1c1e.gif)|**Fronte Al-Nusra (Hayat Tahrir al-Sham)**|**Al-Nusra Front è l'affiliato formale di al-Qaeda in Siria e uno dei più potenti gruppi ribelli che combattono Assad.**|
+|![Al-Shabaab](https://user-images.githubusercontent.com/98583912/208128802-12b71048-c38c-4047-85c5-e141e6529921.gif)|**Al-Shabaab**|**Il ramo somalo di Al-Qaeda, al-Shabaab, cerca di stabilire uno stato islamico fondamentalista.**|
+||**AQAP (Al-Qaeda nella penisola arabica)**|**AQAP è l'unione delle filiali affiliate di al-Qaeda in Arabia Saudita e Yemen.**|
+|![Hurras al-Din](https://user-images.githubusercontent.com/98583912/208129337-084844b5-921d-433f-86af-8058fe6e05b4.gif)|**Hurras al-Din**|**Hurras al-Din (HaD) è stata costituita il 27 febbraio 2018 dalla fusione di sette fazioni ribelli siriane intransigenti. Altre dieci fazioni ribelli minori si sono unite al gruppo nei mesi successivi alla sua formazione, tutte con una storia di legami ideologici e di leadership con al-Qaeda. HaD è dichiaratamente fedele ad al-Qaeda e la sua leadership è dominata da veterani non siriani di al-Qaeda.**|
+|![Iran](https://user-images.githubusercontent.com/98583912/208129481-091b8adc-4388-4d33-8f81-25bde5c6ee46.gif)|**Affiliati Iran**||
+|![Asaib Ahl al-Haq](https://user-images.githubusercontent.com/98583912/208129923-16391db9-d287-49d6-a5e1-7dc55b22f862.gif)|**Asaib Ahl al-Haq**|**AAH è una milizia e partito politico sciita sostenuto dall'Iran che opera principalmente in Iraq, così come in Siria e Libano**|
+|![Organizzazione Badr](https://user-images.githubusercontent.com/98583912/208130058-df194d0a-bcd0-470b-8eb0-b598a9e81410.gif)|**Organizzazione Badr**|**L'Organizzazione Badr è un partito politico sciita e una forza paramilitare che funge da più antico delegato dell'Iran in Iraq.**|
+|![Harakat Hezbollah al-Nujaba](https://user-images.githubusercontent.com/98583912/208130358-73a01845-5a51-40a1-85b0-d6231839a337.gif)|**Harakat Hezbollah al-Nujaba (HHN)**|**Harakat Hezbollah al-Nujaba (HHN) è una milizia sostenuta dall'Iran e designata dagli Stati Uniti formata nel 2013 da Akram al-Kaabi, co-fondatore di Asaib Ahl al-Haq (AAH) sostenuta dall'IRGC.**|
+|![Kata'ib Sayyid al Shuhada](https://user-images.githubusercontent.com/98583912/208130617-76f367e7-7484-4d85-a72e-edeb30ee5e92.gif)|**Kata'ib Sayyid al Shuhada**|**Kata'ib Sayyid al Shuhada (KSS) è una milizia irachena che ha combattuto sia in Iraq che in Siria ed è strettamente collegata al Corpo delle guardie rivoluzionarie islamiche dell'Iran (IRGC) e agli Houthi.**|
+|![Hezbollah](https://user-images.githubusercontent.com/98583912/208130727-073bf6ae-0cd7-462d-ab20-b83adca57c02.gif)|**Hezbollah**|**Hezbollah è un gruppo terroristico sponsorizzato dall'Iran e sanzionato a livello internazionale con un programma anti-israeliano e anti-statunitense. Hezbollah ha sede principalmente in Libano, ma ha condotto operazioni terroristiche e criminali in tutto il mondo.**|
+|![Talebai](https://user-images.githubusercontent.com/98583912/208130960-614f177a-398c-4d09-b987-6078c33e51e6.gif)|**Talebani**|
+||**Rete Haqqani**|**Haqqani Network è un gruppo islamista militante che opera in Afghanistan e Pakistan. Il gruppo è affiliato ai talebani afgani**|
+||**Autonomi**||
+|![Hams](https://user-images.githubusercontent.com/98583912/208131417-13bd65bb-8f53-460c-b6b5-c4eb0b45164a.gif)|**HAMAS**|**nata nel 1987 come il ramo palestinese della "Fratellanza musulmana", ha i suoi punti di forza in Cisgiordania e nella Striscia di Gaza, dove operano le brigate "Ezzedin al Qassam"**|
+|![Gruppo Abu Sayyaf (ASG)](https://user-images.githubusercontent.com/98583912/208131657-2050fe8a-e777-4bcf-9518-d8fd9596cdfa.gif)|**Gruppo Abu Sayyaf (ASG)**|**L'Abu Sayyaf Group (ASG) è un'organizzazione terroristica islamista che cerca di stabilire uno stato islamico indipendente nelle Filippine meridionali.**|
+|![Al-Mourabitoun](https://user-images.githubusercontent.com/98583912/208131906-0cbd8337-6f27-46da-a071-8ad3090d92fc.gif)|**Al-Mourabitoun**|**Al-Mourabitoun è un gruppo terroristico violento che cerca di stabilire uno stato islamico nell'Africa occidentale.**|
+|![Houthi](https://user-images.githubusercontent.com/98583912/208132299-2061e182-2305-4db8-bd04-d8fd7f5f59d0.gif)|**Houthi**|**Gli Houthi sono un movimento religioso e politico armato musulmano sciita sostenuto dall'Iran nello Yemen**|
+|![Tehrik-i-Taliban Pakistan (TTP)](https://user-images.githubusercontent.com/98583912/208132547-4791aef6-eb77-4760-81a1-7fb4f43c59e2.gif)|**Tehrik-i-Taliban Pakistan (TTP)**|**E' un conglomerato di gruppi ribelli violenti che operano in Afghanistan e Pakistan che cercano di rovesciare lo stato del Pakistan.**|
 
 
 # CyberCrime
