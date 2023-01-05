@@ -1,4 +1,4 @@
-![Logo](https://user-images.githubusercontent.com/98583912/200357294-389cc67b-3cc5-4fdb-b260-660b4621cb74.gif)
+![Logo](https://user-images.githubusercontent.com/98583912/210845821-d6ce5b5f-18a8-479b-942b-33931dfc8556.gif)
 
 **_Tecniche OSINT per il reperimento di notizie ed informazioni_**
 
