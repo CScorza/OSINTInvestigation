@@ -134,7 +134,7 @@ ed estera degli stati, o addirittura metterne in pericolo l'esistenza.
 |||[**TOR Node List**](https://www.dan.me.uk/tornodes)|[**OSINTCOMBINE - DARK WEB SEARCHING**](https://www.osintcombine.com/post/dark-web-searching)|
 |||[**Darknet Dictionary**](https://darkweblink.com/darknet-dictionary/)|[**Dark Web Resources**](https://sites.google.com/view/the-dark-net/home)|
 |||[**DarkNet Market Mortality Risk**](https://www.gwern.net/DNM-survival#)|[**Darkweb OSINT ME**](https://www.osintme.com/index.php/2022/02/12/darkweb-osint-investigations-resources-for-2022/)|
-|↓|↓|[**DarkWeb Map**](https://blog.hyperiongray.com/dark-web-map-introduction/)||
+|↓|↓|[**DarkWeb Map**](https://blog.hyperiongray.com/dark-web-map-introduction/)|[**International Anti Crime Academy (IACA)**](https://iaca-darkweb-tools.com/)|
 
 ![Tor Browser](https://user-images.githubusercontent.com/98583912/201673883-e5619d7f-ec10-4ede-b626-a4ca3d7ee820.gif)
 
