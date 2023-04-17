@@ -1,6 +1,7 @@
 ![Logo](https://user-images.githubusercontent.com/98583912/210845821-d6ce5b5f-18a8-479b-942b-33931dfc8556.gif)
 
 [![Telegram](https://img.shields.io/badge/Telegram-CScorza%20%22Indagini%20Telematiche%22-informational)](https://t.me/+kP_uYlc6-345Njc8)
+[![**Manuali CScorza**](https://img.shields.io/badge/CScorza-Manuali-green)](https://drive.google.com/drive/folders/14jbOwS4GBSJhXP2BJk-TFCSMIzbZLBlj?usp=share_link)
 
 **_Tecniche OSINT per il reperimento di notizie ed informazioni_**
 
