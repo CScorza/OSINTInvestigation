@@ -122,7 +122,6 @@ ed estera degli stati, o addirittura metterne in pericolo l'esistenza.
 ||[**FastestVPN**](https://fastestvpn.com/)||
 |**4**|**Utilizzare uno dei link presenti sotto**||
 
-
 **DEEPWEB**
 ![darkweb2](https://user-images.githubusercontent.com/98583912/200968994-f6f6747e-4d79-4027-a327-47e4d8027dcf.gif)
 |**INDIRIZZI**|**ONION**|**SURFACE WEB**|**STRUMENTI**|
@@ -144,6 +143,10 @@ ed estera degli stati, o addirittura metterne in pericolo l'esistenza.
 # STRUMENTI UTILI
 
 **GOOGLE DORK**
+
+![GoogleDork](https://user-images.githubusercontent.com/98583912/234067940-a9f9d1ad-f91b-4cab-a036-76f9fee500ad.gif)
+
+
 ```
 Le Google dork sono una tecnica di ricerca avanzata che può aiutare 
 a scoprire dei dati nascosti ed indicizzati dal motore di ricerca Google, 
@@ -155,6 +158,22 @@ visualizzati quando esegui una ricerca web di routine.
 ```
 - Come rendere più efficace una ricerca
 ![Operatore di ricerca](https://user-images.githubusercontent.com/98583912/200526901-c7d252df-a55b-4640-9ad5-c324b6dcdd1a.gif)
+
+**ALtre GoogleDork**
+
+|**phonebook:**|**maps:**|**book:**|**info:**|**movie:**|**weather:**|**related:**|**link:**|
+| :---| :---| :---| :---| :---| :---| :---| :---|
+
+|**Esempio di Query di Google Dork per la ricerca di Google Drive.**|**"X" è una parola chiave**|
+| :--- | :--- |
+|||
+|**Condividi fogli Google:**|**site:docs.google.com "/spreadsheets/d/" "X"**|
+|**Condividi Google Documenti:**|**site:docs.google.com inurl:/document/d/ "X"**|
+|**Condividi file:**|**sito:drive.google.com inurl:/file/d/ "X"**|
+|**Condividi cartelle:**|**site:drive.google.com inurl:/drive/folders/ "X"**|
+
+
+
 
 **MONITORAGGIO PAROLE**
 
@@ -168,7 +187,6 @@ visualizzati quando esegui una ricerca web di routine.
 | :--- | :--- | :--- |
 |[**Wayback Archive.org**](http://web.archive.org/)|[**Cached Pages**](http://www.cachedpages.com/)|[**Archive**](http://archive.is/)|
 |[**Cached View**](http://cachedview.com/)|[**Archive.org**](https://archive.org/)||
-
 
 **Testi**
 |[**OSINT - HANDBOOK 2020**](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)|
