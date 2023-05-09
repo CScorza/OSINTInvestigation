@@ -172,8 +172,8 @@ visualizzati quando esegui una ricerca web di routine.
 |**Condividi file:**|**sito:drive.google.com inurl:/file/d/ "X"**|
 |**Condividi cartelle:**|**site:drive.google.com inurl:/drive/folders/ "X"**|
 
-
-
+|[**Open Directory Search Portal**](http://eyeofjustice.com/od/)|**Ricerca per Google Dork di file Video, Audio, Immagini, File e Sofware**|
+| :--- | :--- |
 
 **MONITORAGGIO PAROLE**
 
