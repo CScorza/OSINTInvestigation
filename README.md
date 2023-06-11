@@ -175,6 +175,7 @@ visualizzati quando esegui una ricerca web di routine.
 |[**Open Directory Search Portal**](http://eyeofjustice.com/od/)|**Ricerca per Google Dork di file Video, Audio, Immagini, File e Sofware**|
 | :--- | :--- |
 |[**DorkGPT**](https://www.dorkgpt.com/)|**Generate Google Dorks with AI**|
+|[**DorkSearch**](https://dorksearch.com/)|**Genera Richerche Google Dork in base al formato scelto**|
 
 **MONITORAGGIO PAROLE**
 
