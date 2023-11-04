@@ -38,6 +38,10 @@ Wikipedia
 | :--- | :--- | :--- |
 |[**Analytica Intelligence and Security**](https://www.analyticaintelligenceandsecurity.it/ricerca-e-analisi/terrorismo/osservatorio-radicalismo-politico-terrorismo-interno-e-criminalita-organizzata-terrorismo/)|||
 
+**Analisi sui Conflitti**
+|[**CONFLITTO ISRAELE GAZA: LA PROSPETTIVA CIBERNETICA - via CYFIRMA**](https://www.linkedin.com/posts/the-cyber-security-hub_israel-gaza-conflict-the-cyber-perspective-activity-7123564022137806848-AWH7?utm_source=share&utm_medium=member_desktop)|[**ISPI - La Questione Israele-Palestina**](https://www.ispionline.it/it/pubblicazione/escalation-israele-palestina-12-grafici-per-capire-come-siamo-arrivati-fin-qui-126406)|
+| :--- |
+
 **Glossario**
 |![Glossario](https://user-images.githubusercontent.com/98583912/200567559-c71f2740-a119-4912-a9b6-0361ea24f47c.gif)|[**Militant Group Historical Activities**](https://www.start.umd.edu/gtd/search/BrowseBy.aspx?category=country)|[**Chechen World Tracking**](https://www.chechenmilitanttracking.com/)|
 | :--- | :--- | :--- |  
