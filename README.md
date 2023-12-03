@@ -40,7 +40,7 @@ Wikipedia
 
 **Analisi sui Conflitti**
 |[**CONFLITTO ISRAELE GAZA: LA PROSPETTIVA CIBERNETICA - via CYFIRMA**](https://www.linkedin.com/posts/the-cyber-security-hub_israel-gaza-conflict-the-cyber-perspective-activity-7123564022137806848-AWH7?utm_source=share&utm_medium=member_desktop)|[**ISPI - La Questione Israele-Palestina**](https://www.ispionline.it/it/pubblicazione/escalation-israele-palestina-12-grafici-per-capire-come-siamo-arrivati-fin-qui-126406)|
-| :--- |
+| :--- | :--- |
 
 **Glossario**
 |![Glossario](https://user-images.githubusercontent.com/98583912/200567559-c71f2740-a119-4912-a9b6-0361ea24f47c.gif)|[**Militant Group Historical Activities**](https://www.start.umd.edu/gtd/search/BrowseBy.aspx?category=country)|[**Chechen World Tracking**](https://www.chechenmilitanttracking.com/)|
@@ -227,6 +227,9 @@ Wipedia
 ||[**DIREZIONE INVESTIGATIVA ANTIMAFIA** - _Archivio Semestrale sull'infiltrazioni mafiosi nelle provincie d'Italia_](https://direzioneinvestigativaantimafia.interno.gov.it/relazioni-semestrali/)|[**Milano Crime Monitoring**](http://milanocrimemonitoring.com/)| 
 ||[**Ministero dell'Interno - lista Latitanti**](https://www.interno.gov.it/it/ministero/dipartimenti/dipartimento-pubblica-sicurezza/direzione-centrale-polizia-criminale/direzione-centrale-polizia-criminale-elenco-dei-latitanti-massima-pericolosita)|[**Minecrime Monitorare la Criminalita**](https://www.anyreality.it/minecrime-monitorare-la-criminalita/)|
 |||[**Bologna Bike Watch - Statistiche**](http://www.bolognabikewatch.com/statistiche.php)|
+
+**Analisi sulla Criminalità Organizzata**
+|[**CISINT INSIDER - Il rito religioso nelle affiliazioni.pdf**](https://github.com/CScorza/OSINTInvestigation/files/13538818/CISINT.INSIDER.-.Il.rito.religioso.nelle.affiliazioni.pdf)|
 
 **Glossario**
 |![Glossario Mafia](https://user-images.githubusercontent.com/98583912/200581457-50412f63-8241-429e-bb5d-90d1c9d18a56.gif)|[**Glossario Mafia**](https://mafianeindanke.de/wp-content/uploads/GLOSSARIO-ITA.pdf)|
