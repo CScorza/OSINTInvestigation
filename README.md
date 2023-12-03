@@ -230,6 +230,7 @@ Wipedia
 
 **Analisi sulla Criminalità Organizzata**
 |[**CISINT INSIDER - Il rito religioso nelle affiliazioni.pdf**](https://github.com/CScorza/OSINTInvestigation/files/13538818/CISINT.INSIDER.-.Il.rito.religioso.nelle.affiliazioni.pdf)|
+| :--- |
 
 **Glossario**
 |![Glossario Mafia](https://user-images.githubusercontent.com/98583912/200581457-50412f63-8241-429e-bb5d-90d1c9d18a56.gif)|[**Glossario Mafia**](https://mafianeindanke.de/wp-content/uploads/GLOSSARIO-ITA.pdf)|
