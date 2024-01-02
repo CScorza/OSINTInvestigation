@@ -110,7 +110,30 @@ ed estera degli stati, o addirittura metterne in pericolo l'esistenza.
 
 |![monophy](https://user-images.githubusercontent.com/98583912/200569948-0a42db58-5dc0-4c27-b4cc-ae944739e610.gif)|[**Fortinet - Threat Map**](https://threatmap.fortiguard.com/)|[**Kaspersky CyberMap**](https://cybermap.kaspersky.com/)|
 | :--- | :--- | :--- |
-|Attacchi informatici in tempo reale|[**Check Point - Threat Map**](https://threatmap.checkpoint.com/)|[**Double Extortion - Dashboard**](https://doubleextortion.com/#/dashboard)|
+|**Attacchi informatici in tempo reale**|[**Check Point - Threat Map**](https://threatmap.checkpoint.com/)|[**Double Extortion - Dashboard**](https://doubleextortion.com/#/dashboard)|
+
+
+# Monitoraggio dei Data Leak - Breach
+![Notifica-data-breach-ransomware](https://github.com/CScorza/OSINTInvestigation/assets/98583912/ba7fee59-4427-413c-96c9-8f5a9b5fd352)
+
+|[**RansomFeed**](https://ransomfeed.it)|
+|:---|
+|[**PSBDMP**](https://psbdmp.ws/)|
+
+**I Data Breach**
+```
+Sono causati da problemi inaspettati o vulnerabilità sconosciute nei software, nell'hardware o nell'infrastruttura di sicurezza. 
+I cybercriminali devono trovare una vulnerabilità e sfruttarla a proprio favore. 
+Ecco perché è fondamentale che gli amministratori tengano sempre aggiornati i software in uso sui sistemi, 
+installando immediatamente patch o aggiornamenti di sicurezza non appena vengono rilasciati.
+```
+**Un Data Leak**
+```
+Porta inevitabilmente ad un data breach, ma anziché essere causato dallo sfruttamento di una vulnerabilità nel sistema, è causato dall'errore umano.
+https://www.proofpoint.com/
+```
+
+**Accedere al DeepWEB**
 
 ||**Per accedere al DeepWeb eseguire i seguenti passaggi**||
 | :--- | :---: | ---: |
