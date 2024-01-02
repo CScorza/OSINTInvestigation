@@ -129,7 +129,8 @@ installando immediatamente patch o aggiornamenti di sicurezza non appena vengono
 ```
 **Un Data Leak**
 ```
-Porta inevitabilmente ad un data breach, ma anziché essere causato dallo sfruttamento di una vulnerabilità nel sistema, è causato dall'errore umano.
+Porta inevitabilmente ad un data breach,
+ma anziché essere causato dallo sfruttamento di una vulnerabilità nel sistema, è causato dall'errore umano.
 https://www.proofpoint.com/
 ```
 
