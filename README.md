@@ -45,7 +45,7 @@ Wikipedia
 **Glossario**
 |![Glossario](https://user-images.githubusercontent.com/98583912/200567559-c71f2740-a119-4912-a9b6-0361ea24f47c.gif)|[**Militant Group Historical Activities**](https://www.start.umd.edu/gtd/search/BrowseBy.aspx?category=country)|[**Chechen World Tracking**](https://www.chechenmilitanttracking.com/)|
 | :--- | :--- | :--- |  
-|[**Il Giornale - Inside Over**](https://insideover.ilgiornale.it/)|[**Counter Extremism Project**](https://www.counterextremism.com/glossary)|
+|[**Il Giornale - Inside Over**](https://insideover.ilgiornale.it/)|[**Counter Extremism Project**](https://www.counterextremism.com/glossary)|[**OFAC - Sanctions List Search**](https://sanctionssearch.ofac.treas.gov/)|
 
 **Terrorismo in Italia**
 
