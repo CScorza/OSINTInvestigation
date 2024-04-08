@@ -204,6 +204,7 @@ visualizzati quando esegui una ricerca web di routine.
 | :--- | :--- |
 |[**DorkGPT**](https://www.dorkgpt.com/)|**Generate Google Dorks with AI**|
 |[**DorkSearch**](https://dorksearch.com/)|**Genera Richerche Google Dork in base al formato scelto**|
+|[**Ewasion.Github.io**](https://ewasion.github.io/opendirectory-finder/)|**Dork multi motore di Ricerca**|
 
 **MONITORAGGIO PAROLE**
 
