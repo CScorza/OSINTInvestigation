@@ -217,7 +217,7 @@ visualizzati quando esegui una ricerca web di routine.
 |![Internet Archivio](https://user-images.githubusercontent.com/98583912/200618942-2d87278d-774d-4e8f-9c20-38b131077ace.gif)|Indirizzi di Archivio pagine web|Strumenti| 
 | :--- | :--- | :--- |
 |[**Wayback Archive.org**](http://web.archive.org/)|[**Cached Pages**](http://www.cachedpages.com/)|[**Archive**](http://archive.is/)|
-|[**Cached View**](http://cachedview.com/)|[**Archive.org**](https://archive.org/)||
+|[**Cached View**](http://cachedview.com/)|[**Archive.org**](https://archive.org/)|[**Cybetective.com - Web Archive Viewer**](https://cybdetective.com/webarchiveviewer/)|
 
 **Testi**
 |[**OSINT - HANDBOOK 2020**](https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf)|
