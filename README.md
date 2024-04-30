@@ -206,6 +206,8 @@ visualizzati quando esegui una ricerca web di routine.
 |[**DorkSearch**](https://dorksearch.com/)|**Genera Richerche Google Dork in base al formato scelto**|
 |[**Ewasion.Github.io**](https://ewasion.github.io/opendirectory-finder/)|**Dork multi motore di Ricerca**|
 
+[**Elenco di 7000 Google Dorks**](https://github.com/CScorza/OSINTInvestigation/blob/main/-%207000%20-%20Google%20Dork.txt)
+
 **MONITORAGGIO PAROLE**
 
 |![Trends](https://user-images.githubusercontent.com/98583912/200575907-22dae186-4e12-4edc-b88e-404719dc8ead.gif)|[**Key Word Shitter**](http://keywordshitter.com/)|[**AdWord & SEO Keyword Permutation Generator**](http://seo.danzambonini.com/)|
