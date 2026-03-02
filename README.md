@@ -15,7 +15,42 @@
 |[**ARCHIVIO BIBBLIOTECHE**](https://github.com/CScorza/OSINTInvestigation#archivio-bibblioteche)||
 |[**ARCHIVIO STORICO PAGINE WEB**](https://github.com/CScorza/OSINTInvestigation#archivio-storico-pagine-web)|| 
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![OSINT](https://img.shields.io/badge/category-OSINT-blue) ![License](https://img.shields.io/badge/license-MIT-orange)
+
+<img width="1906" height="907" alt="image" src="https://github.com/user-attachments/assets/acfa1335-334f-4049-850f-f71e4193a336" />
+
+## Wolrd Monitoring
+Utilizzando tre potenti strumenti web-based, dashboard unificate per monitorare eventi geopolitici, finanziari e sociali in tempo reale.
+
+L'obiettivo è incrociare diverse fonti di intelligence (**Data Fusion**):
+1.  **FININT (Financial Intelligence):** Movimenti di mercato come indicatori precoci.
+2.  **SOCMINT (Social Media Intelligence):** Flussi di notizie grezze e social.
+3.  **GEOINT (Geospatial Intelligence):** Visualizzazione su mappa degli incidenti.
+
+## 🛠️ Tools (Strumenti)
+
+| Strumento | URL | Tipologia | Funzione nel Monitoraggio |
+| :--- | :--- | :--- | :--- |
+| **Glint** | [**Glint**](glint.trade/terminal) | FININT / Data Viz | Visualizzazione in tempo reale di flussi finanziari e crypto. I mercati spesso reagiscono alle notizie prima dei media tradizionali. |
+| **Monitor The Situation** | [**Monitor the Situation**](monitor-the-situation.com) | Aggregator / SOCMINT | Aggregatore di feed di notizie, Twitter/X e alert. Fornisce il "rumore" di fondo e i breaking alert immediati. |
+| **World Monitor** | [**World Monitor**](worldmonitor.app) | GEOINT / Mapping | Mappatura di incidenti globali. Permette di vedere *dove* sta accadendo qualcosa (conflitti, disastri, proteste). |
+
+Metodologia di Analisi
+```
+Per monitorare "contemporaneamente qualunque situazione", si utilizza un ciclo di feedback a tre fasi:
+
+1. Rilevamento Anomalie (The Trigger)
+Spesso, un crollo improvviso di un indice, un picco nel prezzo dell'oro o del petrolio, o una liquidazione massiva nel settore crypto (visibile su **Glint**) sono i primi segnali di un evento geopolitico (es. inizio di un conflitto o una dichiarazione politica importante).
+
+2. Contestualizzazione (The Context) 
+Una volta notata un'anomalia finanziaria o ricevuto un alert generico, si passa a **Monitor The Situation**. Qui si cercano parole chiave correlate.
+
+3. Localizzazione (The Location)
+Confermata la notizia, si utilizza **World Monitor** per ottenere la precisione geografica.
+---
+```
 # TERRORISMO
+
 ```
 Il termine terrorismo nel diritto internazionale, soprattutto in ambito penale, 
 indica azioni criminali violente premeditate aventi lo scopo di suscitare terrore 
