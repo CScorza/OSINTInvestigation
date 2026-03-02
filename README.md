@@ -17,9 +17,11 @@
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![OSINT](https://img.shields.io/badge/category-OSINT-blue) ![License](https://img.shields.io/badge/license-MIT-orange)
 
-<img width="1906" height="907" alt="image" src="https://github.com/user-attachments/assets/acfa1335-334f-4049-850f-f71e4193a336" />
 
 ## Wolrd Monitoring
+
+<img width="1906" height="907" alt="image" src="https://github.com/user-attachments/assets/acfa1335-334f-4049-850f-f71e4193a336" />
+
 Utilizzando tre potenti strumenti web-based, dashboard unificate per monitorare eventi geopolitici, finanziari e sociali in tempo reale.
 
 L'obiettivo è incrociare diverse fonti di intelligence (**Data Fusion**):
