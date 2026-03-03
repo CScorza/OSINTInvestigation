@@ -353,7 +353,7 @@ Ricerca Materiale e Report Investigativo
 |[**Archivio - l'Ora**](http://www.bibliotecaregionalepalermo.it/index.php?it/334/archivio-lora)||||||
 
 
-## ARCHIVIO BIBBLIOTECHE 
+## ARCHIVIO BIBLIOTECHE 
 
 **NAZIONALI**
 |![Archivio](https://user-images.githubusercontent.com/98583912/200616470-c09e7351-ebb4-4df9-b013-97dd7dcc57a8.gif)|[**Biblioteca Bertoliana**](https://www.bibliotecabertoliana.it/file/2935-Banca_dati_periodici.pdf)|[**Librai Alessandria**](http://digitale.alessandrina.librari.beniculturali.it/RicercaAvanzata.aspx?Tipo=periodico&Start=0&ShowResults=tutti&MaxResults=0)|
