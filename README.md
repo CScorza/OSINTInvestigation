@@ -35,6 +35,7 @@ L'obiettivo è incrociare diverse fonti di intelligence (**Data Fusion**):
 | :--- | :--- | :--- | :--- |
 | **Glint** | [**Glint**](https://glint.trade/terminal) | FININT / Data Viz | Visualizzazione in tempo reale di flussi finanziari e crypto. I mercati spesso reagiscono alle notizie prima dei media tradizionali. |
 | **Monitor The Situation** | [**Monitor the Situation**](https://monitor-the-situation.com) | Aggregator / SOCMINT | Aggregatore di feed di notizie, Twitter/X e alert. Fornisce il "rumore" di fondo e i breaking alert immediati. |
+| **Phantom Tide** | [**Phantom Tide**](https://phantom.labs.jamessawyer.co.uk/) | GEOINT / Airspace / Maritime | Mappa pubblica per monitorare spazio aereo ristretto, movimenti marittimi e incidenti. |
 | **World Monitor** | [**World Monitor**](https://worldmonitor.app) | GEOINT / Mapping | Mappatura di incidenti globali. Permette di vedere *dove* sta accadendo qualcosa (conflitti, disastri, proteste). |
 
 Metodologia di Analisi
