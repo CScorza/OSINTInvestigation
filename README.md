@@ -18,7 +18,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![OSINT](https://img.shields.io/badge/category-OSINT-blue) ![License](https://img.shields.io/badge/license-MIT-orange)
 
 
-## Wolrd Monitoring
+## World Monitoring
 
 <img width="1906" height="907" alt="image" src="https://github.com/user-attachments/assets/acfa1335-334f-4049-850f-f71e4193a336" />
 
@@ -35,6 +35,7 @@ L'obiettivo è incrociare diverse fonti di intelligence (**Data Fusion**):
 | :--- | :--- | :--- | :--- |
 | **Glint** | [**Glint**](https://glint.trade/terminal) | FININT / Data Viz | Visualizzazione in tempo reale di flussi finanziari e crypto. I mercati spesso reagiscono alle notizie prima dei media tradizionali. |
 | **Monitor The Situation** | [**Monitor the Situation**](https://monitor-the-situation.com) | Aggregator / SOCMINT | Aggregatore di feed di notizie, Twitter/X e alert. Fornisce il "rumore" di fondo e i breaking alert immediati. |
+| **Xquik** | [**Xquik**](https://github.com/Xquik-dev/x-twitter-scraper) | SOCMINT / API | Independent X/Twitter data API for search, follower export, monitors, and MCP. |
 | **World Monitor** | [**World Monitor**](https://worldmonitor.app) | GEOINT / Mapping | Mappatura di incidenti globali. Permette di vedere *dove* sta accadendo qualcosa (conflitti, disastri, proteste). |
 
 Metodologia di Analisi
