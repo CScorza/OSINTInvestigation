@@ -246,6 +246,7 @@ visualizzati quando esegui una ricerca web di routine.
 
 [**Elenco di 7000 Google Dorks**](https://github.com/CScorza/OSINTInvestigation/blob/main/-%207000%20-%20Google%20Dork.txt)
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) — Piattaforma open-source (GPL-3.0) di penetration testing autonomo guidato dall'IA (web, API, Active Directory, Kubernetes), self-hosted, con una Privacy Gateway locale che tokenizza i dati sensibili così che l'LLM non veda mai i valori reali. Utile anche per la fase di ricognizione automatizzata. Editore francese/europeo ASC-IT.
 **STRUMENTI OSINT**
 | [**bf.based.re Leak Breach Forums**](https://bf.based.re) |
 | :--- |
